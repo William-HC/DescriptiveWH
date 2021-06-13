@@ -12,7 +12,7 @@
 #' @importFrom stats sd
 #' @examples
 #' #Example 1
-#' data=as.integer(c(7,6,"NA",8,"NA"))
+#' data=c(7,6,NA,8,NA))
 #' meanWH(x=data,meth="a",narm=TRUE)
 #' #Example 2
 #' data=rnorm(10,50,3)
